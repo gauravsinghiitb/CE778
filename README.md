@@ -4,7 +4,7 @@ This project classifies Arctic sea ice into **First-Year Ice (FYI)** and **Multi
 
 ## 📡 Data Source
 
-- **Dataset**: [NSIDC AE_SI12 v3](https://nsidc.org/data/ae_si12/versions/3)
+- **Dataset**: [NSIDC AE_SI12 v3](https://nsidc.org/data/au_si12/versions/1)
 - **Format**: HDF-EOS5 (.he5)
 - **Grid**: Northern Hemisphere Polar Stereographic, 12.5 km resolution
 - **Fields Used**:
